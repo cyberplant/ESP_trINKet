@@ -11,7 +11,7 @@ Special thanks to:
 Drew at OSH Park for supplying the PCB @pdp7
 and @drewler for re-writing the Waveshare library so it will work on the BuyDisplay hardware
 
-The code right now does a hardware test verifying the display, sensors and wifi are functional are functional. If you manage to create something of your own I would love to see it by reaching me at @mikerankin
+The code right now does a hardware test verifying the display, sensors and wifi are functional. If you manage to create something of your own I would love to see it by reaching me at @mikerankin
 
 ![display](https://user-images.githubusercontent.com/4991664/33353117-8969f55e-d482-11e7-8010-1b8fbf2f1f35.JPG)
 
